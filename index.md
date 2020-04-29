@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Cusco
-tags: example-tag
+tags: OWASP, Cusco, LATAM
 level: 0
 
 region: Latin America
