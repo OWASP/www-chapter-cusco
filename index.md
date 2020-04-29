@@ -9,7 +9,7 @@ level: 0
 region: Latin America
 
 ---
-![Cusco](logo.png)
+![Cusco](assets/images/logo.png)
 
 El capitulo de OWASP Cusco viene realizando actividades desde el 2018, somos un grupo de amigos que estamos muy entusiastas de compartir y ayudar a crecer a la comunidad, cualquier duda o inquietud no dudes en comunicarte con nosotros.
 
