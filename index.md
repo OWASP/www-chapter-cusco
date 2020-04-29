@@ -11,9 +11,18 @@ region: Latin America
 ---
 ![Cusco](assets/images/logo.png)
 
-El capitulo de OWASP Cusco viene realizando actividades desde el 2018, somos un grupo de amigos que estamos muy entusiastas de compartir y ayudar a crecer a la comunidad, cualquier duda o inquietud no dudes en comunicarte con nosotros. 
+## Bienvenido
+El capítulo de OWASP Cusco siguiendo la filosofía de la comunidad OWASP, viene compartiendo junto con el apoyo de los entusiastas de la seguridad informática de nuestra región, a través de eventos organizados desde el 2018, dicho conocimiento para ayudar a crecer a la comunidad.
 
-Te esperamos !!
+Tienes dudas o inquietudes no dudes en comunicarte con nosotros. Te esperamos!!
+
+### Enterate primero:
+Siguenos en<br>
+[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspcusco)<br>
+Para estar atento a nuestros proximos eventos
+
+
+
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
