@@ -2,7 +2,7 @@
 * Chapter Region -->
 
 
-![OWASP Cusco](logo.png)
+![OWASP Cusco](OWASP-Cusco.png)
 ### OWASP Cusco
 
 ### Redes Sociales
