@@ -5,12 +5,14 @@ title: OWASP Cusco
 tags: Cusco, LATAM
 level: 0
 
-region: Latin America
-auto-migrated: 1
 
-![Cusco](assets/images/logo.png)
+region: Latin America
 
 ---
+![Cusco](assets/images/logo.png)
+
+El capitulo de OWASP Cusco viene realizando actividades desde el 2018, somos un grupo de amigos que estamos muy entusiastas de compartir y ayudar a crecer a la comunidad, cualquier duda o inquietud no dudes en comunicarte con nosotros.
+
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
