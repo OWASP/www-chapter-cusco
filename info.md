@@ -1,8 +1,12 @@
 <!--### Chapter Information
 * Chapter Region -->
 
+<br>
+<p align="center">
+  <img src="OWASP-Cusco.png">
+</p>
+<br>
 
-![OWASP Cusco](OWASP-Cusco.png)
 ### OWASP Cusco
 
 ### Redes Sociales
