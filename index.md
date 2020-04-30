@@ -9,8 +9,11 @@ level: 0
 region: Latin America
 
 ---
-![Cusco](assets/images/logo.png)
-
+<br>
+<p align="center">
+  <img src="assets/images/logo.png">
+</p>
+<br><br>
 ## Bienvenido
 El capítulo de OWASP Cusco siguiendo la filosofía de la comunidad OWASP, viene compartiendo junto con el apoyo de los entusiastas de la seguridad informática de nuestra región, a través de eventos organizados desde el 2018, dicho conocimiento para ayudar a crecer a la comunidad.
 
