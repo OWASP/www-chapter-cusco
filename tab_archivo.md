@@ -6,10 +6,10 @@ tags: Cusco
 ---
 
 # **Archivo de Eventos**
-### 18th Junio 2019 
+### 18 Junio 2019 
 #### OWASP Day 2019.
 OWASP Day Cusco 2019, fue parte del programa “OWASP Latam Tour 2019” que tambien tuvo el objetivo de crear conciencia acerca de los problemas de seguridad de aplicaciones en la región de América Latina.
-Nuestro primer evento, realizado en la [Universidad Peruana Austral del Cusco](http://uaustral.edu.pe/). 
+Evento realizado en la [Universidad Peruana Austral del Cusco](http://uaustral.edu.pe/). 
 ![Cusco](assets/images/archivo-oday-2019.jpg)
 #### Ponencias:<br>
 * Anécdotas de un Guardan de Latinoamérica Protegiendo la Banda y Gobierno.
@@ -19,7 +19,7 @@ Nuestro primer evento, realizado en la [Universidad Peruana Austral del Cusco](h
 * Hackers, desarrolladores y operadores, juntos y revueltos.
 * Deofuscación de Javascript.
 
-### 29th Abril 2018 
+### 29 Abril 2018 
 #### OWASP Latam Tour 2018.
 OWASP Latam Tour Chapter Cusco, es parte del programa “OWASP Latam Tour” que tiene el objetivo de crear conciencia acerca de los problemas de seguridad de aplicaciones en la región de América Latina.
 Este fue nuestro primer evento, realizado en la [Universidad Nacional San Antonio Abad del Cusco](http://www.unsaac.edu.pe/). 
