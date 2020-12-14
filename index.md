@@ -6,7 +6,7 @@ tags: Cusco, LATAM
 level: 0
 
 
-region: Latin America
+region: South America
 
 ---
 <br>
