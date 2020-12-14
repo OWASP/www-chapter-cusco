@@ -10,6 +10,7 @@
 ### OWASP Cusco
 
 ### Redes Sociales
+* [Meetup](https://www.meetup.com/owasp-cusco-meetup-group/)
 * [Slack](https://owasp.slack.com/messages/chapter-cusco/)
 * [Twitter](https://twitter.com/owaspcusco)
 * [LinkedIn](https://pe.linkedin.com/company/owaspcusco)
