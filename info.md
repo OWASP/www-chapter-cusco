@@ -1,5 +1,11 @@
 <!--### Chapter Information
 * Chapter Region -->
+<br>	
+<p align="center">	
+  <img width="250px"src="OWASP-Cusco.png">	
+</p>	
+<br>
+
 
 ### OWASP capítulo Cusco
 <h3 id="meetups" style="margin-bottom: -40px;">Meetups</h3> <!-- ### Meetups -->
