@@ -6,6 +6,18 @@ tags: Cusco
 ---
 
 # **Archivo de Eventos**
+
+### OWASP LATAM at Home 2020
+2020, trajo sorpresas como el ya conocido Covid-19, razón por la cual se canceló el OWASP LATAM TOUR 2020 de manera presencial, esto dió pie a realizar un evento con las mismas características pero de manera virtual y con organización conjunta de los capítulos de OWASP en LATAM.
+
+[Sitio del evento](https://owasp.org/www-event-2020-latam-at-home/)
+
+Vuelve a ver las charlas [aquí](https://www.youtube.com/playlist?list=PLiooNakZQW8qrTERT0oq7n_4zmq79Y8WU)
+Los miembros del capitulo de [OWASP Cusco](https://owasp.org/www-event-2020-latam-at-home/#div-workteam), tambien apoyaron en la organización del [CTF](https://owasp.org/www-event-2020-latam-at-home/#div-ctf) :) 
+
+Nuevamente agradecidos con todos lo que hicieron que a pesar de la pandemia este año permitieran unirnos gracias a la tecnología.
+
+
 ### 18 Junio 2019 
 #### OWASP Day 2019.
 OWASP Day Cusco 2019, fue parte del programa “OWASP Latam Tour 2019” que tambien tuvo el objetivo de crear conciencia acerca de los problemas de seguridad de aplicaciones en la región de América Latina.
