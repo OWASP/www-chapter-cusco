@@ -2,7 +2,7 @@
 * Chapter Region -->
 <br>	
 <p align="center">	
-  <img width="250px"src="OWASP-Cusco.png">	
+  <img width="250px" src="OWASP-Cusco.png">	
 </p>	
 <br>
 
