@@ -1,10 +1,3 @@
----
-
-meetup-group: owasp-cusco
-region: South America
-
----
-
 <!--### Chapter Information
 * Chapter Region -->
 <br>	
