@@ -8,7 +8,7 @@
 
 
 <h3 id="meetups" style="margin-bottom: -40px;">Meetups</h3> <!-- ### Meetups -->
-{% include chapter_events.html group=page.meetup-group %}
+* [Grupo Meetup](https://www.meetup.com/owasp-cusco-meetup-group/)
 
 
 ### Eventos y reuniones del capítulo
