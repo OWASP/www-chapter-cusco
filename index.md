@@ -23,8 +23,10 @@ Tienes dudas o inquietudes no dudes en comunicarte con nosotros. Te esperamos!!
 Siguenos en<br>
 [![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspcusco)<br>
 Para estar atento a nuestros proximos eventos
+<br><br>
 
 <h3 id="meetups" style="margin-bottom: -40px;">Meetups</h3> <!-- ### Meetups -->
+<br><br>
 {% include chapter_events.html group=page.meetup-group %}
 
 
