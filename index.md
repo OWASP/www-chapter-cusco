@@ -11,7 +11,7 @@ region: South America
 ---
 <br>
 <p align="center">
-  <img src="assets/images/logo.png">
+  <img width="550px" src="assets/images/logo.png">
 </p>
 <br><br>
 ## Bienvenido
@@ -24,7 +24,8 @@ Siguenos en<br>
 [![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspcusco)<br>
 Para estar atento a nuestros proximos eventos
 
-
+<h3 id="meetups" style="margin-bottom: -40px;">Meetups</h3> <!-- ### Meetups -->
+{% include chapter_events.html group=page.meetup-group %}
 
 
 <!-- Standard Chapter Page Template
