@@ -1,3 +1,10 @@
+---
+
+meetup-group: owasp-cusco
+region: South America
+
+---
+
 <!--### Chapter Information
 * Chapter Region -->
 <br>	
@@ -8,7 +15,9 @@
 
 
 ### OWASP capítulo Cusco
-<h3 id="meetups" style="margin-bottom: -40px;">Meetups</h3> <!-- ### Meetups -->
+
+### Da un vistazo a los próximos eventos:
+<!-- ### Meetups <h3 id="meetups" style="margin-bottom: -40px;">Meetups</h3> -->
 {% include chapter_events.html group=page.meetup-group %}
 
 ### Eventos y reuniones del capítulo
