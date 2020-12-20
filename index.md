@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Cusco
 tags: Cusco, LATAM
 level: 0
-
+meetup-group: owasp-cusco-meetup-group
 
 region: South America
 
