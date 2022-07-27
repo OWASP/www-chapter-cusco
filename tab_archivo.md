@@ -19,21 +19,33 @@ Agradecemos a los que hicieron posible este evento con sus excelentes ponencias:
 
 Gracias con todos lo que hicieron posible este evento.
 
+### 21 Diciembre 2020
+### OWASP Meetup Cusco 2020
+OWASP Latam Tour Chapter Cusco, realizo el evento virtual donde reunió a grandes profesionales que han compartido su valioso conocimiento.
+Vuelve a ver las charlas [aquí](https://www.youtube.com/watch?v=NGEs79EvmSI)
+
+[Sitio del evento](https://www.meetup.com/es-ES/owasp-cusco-meetup-group/events/275196167/)
+
+#### Ponencias:<br>
+* Josue Rojas - GameHacking: The Beginning.
+* Rafael Lio - Inyectar Gadget y no morir en el intento SinRoot
+* Cesar Neira - BlackBox Crypto Testing
+* Katerine QB - Pericias Tecnológicas Forenses
+* Roy Quintana - Análisis estático y dinámico de Petya
 
 ### OWASP LATAM at Home 2020
-2020, trajo sorpresas como el ya conocido Covid-19, razón por la cual se canceló el OWASP LATAM TOUR 2020 de manera presencial, esto dió pie a realizar un evento con las mismas características pero de manera virtual y con organización conjunta de los capítulos de OWASP en LATAM.
+2020, trajo sorpresas como el ya conocido Covid-19, razón por la cual se canceló el OWASP LATAM TOUR 2020 de manera presencial, esto dió pie a realizar un evento con las mismas características, pero de manera virtual y con organización conjunta de los capítulos de OWASP en LATAM.
 
 [Sitio del evento](https://owasp.org/www-event-2020-latam-at-home/)
 
 Vuelve a ver las charlas [aquí](https://www.youtube.com/playlist?list=PLiooNakZQW8qrTERT0oq7n_4zmq79Y8WU)
-Los miembros del capitulo de [OWASP Cusco](https://owasp.org/www-event-2020-latam-at-home/#div-workteam), tambien apoyaron en la organización del [CTF](https://owasp.org/www-event-2020-latam-at-home/#div-ctf) :) 
+Los miembros del capítulo de [OWASP Cusco](https://owasp.org/www-event-2020-latam-at-home/#div-workteam), también apoyaron en la organización del [CTF](https://owasp.org/www-event-2020-latam-at-home/#div-ctf) :) 
 
 Nuevamente agradecidos con todos lo que hicieron posible este evento a pesar de la pandemia aún latente este año.
 
-
 ### 18 Junio 2019 
 #### OWASP Day 2019.
-OWASP Day Cusco 2019, fue parte del programa “OWASP Latam Tour 2019” que tambien tuvo el objetivo de crear conciencia acerca de los problemas de seguridad de aplicaciones en la región de América Latina.
+OWASP Day Cusco 2019, fue parte del programa “OWASP Latam Tour 2019” que también tuvo el objetivo de crear conciencia acerca de los problemas de seguridad de aplicaciones en la región de América Latina.
 Evento realizado en la [Universidad Peruana Austral del Cusco](http://uaustral.edu.pe/). 
 ![Cusco](assets/images/archivo-oday-2019.jpg)
 #### Ponencias:<br>
