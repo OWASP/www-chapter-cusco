@@ -1,2 +1,2 @@
-### Lidere <!-- ### Leaders -->
+### Leaders <!-- ### Leaders -->
 
