@@ -2,14 +2,12 @@
 title: Events
 layout: null
 tab: true
-order: 3
+order: 2
 tags: cusco
 meetup group: cusco-owasp-meetup-group
-
 ---
 
-## Events
-
+## Eventos
 
 ### Proximas Reuniones
 
@@ -20,7 +18,6 @@ Programamos nuestras reuniones en [Cusco Meetup Group](https://www.meetup.com/ow
 {% include chapter_events.html group=page.meetup-group %}
 
 Nuestras reuniones están abiertas al público y no es necesario ser miembro para asistir. Considere unirse a OWASP [joining OWASP](https://owasp.org/membership/) si considera que nuestra comunidad, proyectos y reuniones son valiosos, o si patrocina este capítulo.
-
 
 ### Eventos Anteriores
 **[OWASP Cusco Post Covid 2022](https://www.meetup.com/owasp-cusco-meetup-group/events/284099151)**   **23 de febrero 2022** 
