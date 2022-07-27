@@ -7,6 +7,19 @@ tags: Cusco
 
 # **Archivo de Eventos**
 
+### OWASP Cusco Post Covid 2022
+Desarrollamos una reunión virtual para seguir compartiendo con la comunidad de OWASP de LATAM.
+
+[Sitio del evento](https://www.meetup.com/owasp-cusco-meetup-group/events/284099151)
+
+Vuelve a ver las charlas [aquí](https://www.youtube.com/watch?v=agKAPXFwwjk)
+Agradecemos a los que hicieron posible este evento con sus excelentes ponencias:
+* Cesar Neira - Bypass WAFs
+* Roy Quintana - Análisis de Malware - Log4j
+
+Gracias con todos lo que hicieron posible este evento.
+
+
 ### OWASP LATAM at Home 2020
 2020, trajo sorpresas como el ya conocido Covid-19, razón por la cual se canceló el OWASP LATAM TOUR 2020 de manera presencial, esto dió pie a realizar un evento con las mismas características pero de manera virtual y con organización conjunta de los capítulos de OWASP en LATAM.
 
@@ -15,7 +28,7 @@ tags: Cusco
 Vuelve a ver las charlas [aquí](https://www.youtube.com/playlist?list=PLiooNakZQW8qrTERT0oq7n_4zmq79Y8WU)
 Los miembros del capitulo de [OWASP Cusco](https://owasp.org/www-event-2020-latam-at-home/#div-workteam), tambien apoyaron en la organización del [CTF](https://owasp.org/www-event-2020-latam-at-home/#div-ctf) :) 
 
-Nuevamente agradecidos con todos lo que hicieron que a pesar de la pandemia este año permitieran unirnos gracias a la tecnología.
+Nuevamente agradecidos con todos lo que hicieron posible este evento a pesar de la pandemia aún latente este año.
 
 
 ### 18 Junio 2019 
