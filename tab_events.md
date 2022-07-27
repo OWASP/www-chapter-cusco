@@ -1,10 +1,9 @@
 ---
 title: Eventos
-layout: null
 tab: true
 order: 2
 tags: cusco
-meetup group: cusco-owasp-meetup-group
+meetup group: owasp-cusco-meetup-group
 ---
 
 ## Eventos
