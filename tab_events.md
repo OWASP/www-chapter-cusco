@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Eventos
 layout: null
 tab: true
 order: 2
@@ -20,8 +20,11 @@ Programamos nuestras reuniones en [Cusco Meetup Group](https://www.meetup.com/ow
 Nuestras reuniones están abiertas al público y no es necesario ser miembro para asistir. Considere unirse a OWASP [joining OWASP](https://owasp.org/membership/) si considera que nuestra comunidad, proyectos y reuniones son valiosos, o si patrocina este capítulo.
 
 ### Eventos Anteriores
-**[OWASP Cusco Post Covid 2022](https://www.meetup.com/owasp-cusco-meetup-group/events/284099151)**   **23 de febrero 2022** 
 
-**[OWASP Latam Tour 2019](https://owasp.org/www-chapter-cusco/#div-archivo)**   **18 de Junio** 
+**[OWASP Cusco Post Covid 2022](https://www.meetup.com/owasp-cusco-meetup-group/events/284099151)**   **23 de Febrero 2022** 
 
-**[OWASP Latam Tour 2018](https://owasp.org/www-chapter-cusco/#div-archivo)**  **29 Abril 2018**   
+**[OWASP Meetup Cusco 2020](https://www.meetup.com/es-ES/owasp-cusco-meetup-group/events/275196167/)**   **21 de Diciembre 2020** 
+
+**[OWASP Latam Tour 2019](https://owasp.org/www-chapter-cusco/#div-archivo)**   **18 de Junio 2019** 
+
+**[OWASP Latam Tour 2018](https://owasp.org/www-chapter-cusco/#div-archivo)**  **29 Abril 2018**
