@@ -7,7 +7,7 @@ meetup group: owasp-cusco-meetup-group
 ---
 
 ## Eventos
-
+OWASP CONFERENCIA "FORTALECIENDO LA SEGURIDAD INFORMATICA" 2023
 ### Proximas Reuniones
 
 Programamos nuestras reuniones en [Cusco Meetup Group](https://www.meetup.com/owasp-cusco-meetup-group)
