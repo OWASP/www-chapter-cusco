@@ -26,7 +26,7 @@ Tienes dudas o inquietudes no dudes en comunicarte con nosotros. Te esperamos!!
 
 El capítulo de OWASP Cusco invita a todos los entusiastas, profesionales y estudiantes apasionados por la seguridad informatica; al proximo evento del capitulo, donde la seguridad digital será el protagonista principal.
 
-[![OWASP-ANDINA.png](/assets/images/OWASP-ANDINA.png)]
+![OWASP-ANDINA.png](/assets/images/OWASP-ANDINA.png)
 
 ¡No pierdan la oportunidad de formar parte de este emocionante evento de seguridad informática en la Universidad Andina del Cusco! Marquen sus calendarios, inviten a sus colegas y amigos, y prepárense para sumergirse en un día lleno de aprendizaje y descubrimientos.
 
