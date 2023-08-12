@@ -43,7 +43,7 @@ Para mantenerse actualizados con los detalles del evento y confirmar su asistenc
 
 Siguenos en:<br>
   <ul>
-    <li><a href="https://twitter.com/owaspcusco"><img src="assets/images/twitter.jpg" alt="Twitter Logo" width="40"></a></li>
+    <li><a href="https://twitter.com/owaspcusco"><img src="assets/images/twitter.png" alt="Twitter Logo" width="40"></a></li>
     <li><a href="https://www.linkedin.com/company/owaspcusco/"><img src="assets/images/linkedin.png" alt="Linkedin Logo" width="40"></a></li>
     <li><a href="https://www.facebook.com/OwaspCusco"><img src="assets/images/fb.png" alt="FB Logo" width="40"></a></li>
   </ul>
