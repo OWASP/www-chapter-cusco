@@ -33,19 +33,19 @@ El capítulo de OWASP Cusco invita a todos los entusiastas, profesionales y estu
 Para mantenerse actualizados con los detalles del evento y confirmar su asistencia, por favor visiten nuestro sitio web y sigan nuestras redes sociales.
 
 #### SPONSORS
-![Logo UAC.png](/assets/images/Logo UAC.png)
+![Logo UAC](assets/images/Logo UAC.png)
+![Logo Base4](assets/images/logo.png)
 <br>
 ![logo.png](/assets/images/logo.png)
 
 ### Enterate primero:
 
-Siguenos en<br>
-<a href="https://twitter.com/owaspcusco"><img src="assets/images/twitter.jpg" alt="Twitter Logo" width="40%"></a><br>
-<br>
-<a href="https://www.linkedin.com/company/owaspcusco/"><img src="assets/images/linkedin.png" alt="Linkedin Logo" width="40%"></a><br>
-<br>
-<a href="https://www.facebook.com/OwaspCusco"><img src="assets/images/fb.png" alt="FB Logo" width="40%"></a><br>
-<br>
+Siguenos en:<br>
+  <ul>
+    <li><a href="https://twitter.com/owaspcusco"><img src="assets/images/twitter.jpg" alt="Twitter Logo" width="60"></a></li>
+    <li><a href="https://www.linkedin.com/company/owaspcusco/"><img src="assets/images/linkedin.png" alt="Linkedin Logo" width="60"></a></li>
+    <li><a href="https://www.facebook.com/OwaspCusco"><img src="assets/images/fb.png" alt="FB Logo" width="60"></a></li>
+  </ul>
 
 <h3 id="meetups" style="margin-bottom: -40px;">Próximo evento</h3> <!-- ### Meetups -->
 <br>
