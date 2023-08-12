@@ -40,11 +40,11 @@ Para mantenerse actualizados con los detalles del evento y confirmar su asistenc
 ### Enterate primero:
 
 Siguenos en<br>
-[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspcusco)<br>
+<a href="https://twitter.com/owaspcusco"><img src="/assets/images/twitter.jpg" alt="Twitter Logo" width="100"></a><br>
 <br>
-[![Linkedin Logo](/assets/images/linkedin.png)](https://www.linkedin.com/company/owaspcusco/)<br>
+<a href="https://www.linkedin.com/company/owaspcusco/"><img src="/assets/images/linkedin.png" alt="Linkedin Logo" width="100"></a><br>
 <br>
-[![FB Logo](/assets/images/fb.png)](https://www.facebook.com/OwaspCusco)<br>
+<a href="https://www.facebook.com/OwaspCusco"><img src="/assets/images/fb.png" alt="FB Logo" width="100"></a><br>
 <br>
 
 <h3 id="meetups" style="margin-bottom: -40px;">Próximo evento</h3> <!-- ### Meetups -->
