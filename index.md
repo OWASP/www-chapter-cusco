@@ -35,7 +35,7 @@ Para mantenerse actualizados con los detalles del evento y confirmar su asistenc
 #### SPONSORS
   <ul>
     <li><img class="logo" src="assets/images/Logo-UAC.png"  width="80"></li>
-    <li><img class="logo" src="assets/images/base4sec.png"  width="8l0"></li>
+    <li><img class="logo" src="assets/images/base4sec.png"  width="80"></li>
   </ul>
 
 
