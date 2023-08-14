@@ -9,7 +9,12 @@ meetup-group: owasp-cusco-meetup-group
 region: South America
 
 ---
-
+<style>
+  .logo {
+    display: inline-block;
+    margin-right: 20px; /* Ajusta este valor para espaciar las imágenes */
+  }
+</style>
 <br>
 <p align="center">
   <img width="550px" src="assets/images/logo.png">
