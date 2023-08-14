@@ -9,12 +9,7 @@ meetup-group: owasp-cusco-meetup-group
 region: South America
 
 ---
-<style>
-  .logo {
-    display: inline-block;
-    margin-right: 20px; /* Ajusta este valor para espaciar las imágenes */
-  }
-</style>
+
 <br>
 <p align="center">
   <img width="550px" src="assets/images/logo.png">
@@ -38,10 +33,10 @@ El capítulo de OWASP Cusco invita a todos los entusiastas, profesionales y estu
 Para mantenerse actualizados con los detalles del evento y confirmar su asistencia, por favor visiten nuestro sitio web y sigan nuestras redes sociales.
 
 #### SPONSORS
-  <ul>
-    <li><img class="logo" src="assets/images/Logo-UAC.png"  width="35%"></li>
-    <li><img class="logo" src="assets/images/base4sec.png"  width="40%"></li>
-  </ul>
+<div style="display: flex; justify-content: center;">
+  <img class="logo" src="assets/images/Logo-UAC.png" width="20%" style="margin-right: 20px;">
+  <img class="logo" src="assets/images/base4sec.png" width="30%">
+</div>
 
 
 ### Enterate primero:
