@@ -5,7 +5,7 @@ title: OWASP Cusco
 tags: Cusco, LATAM
 level: 0
 meetup-group: owasp-cusco-meetup-group
-
+country: Peru
 region: South America
 
 ---
