@@ -1,0 +1,33 @@
+community:
+  - name: chapter-cusco
+    platform: slack
+    url: https://owasp.slack.com/archives/C0141CFD4JY
+    description: OWASP Chapter Cusco
+leaders:
+  - name: Yehude Huayhua Jurado
+    email: yehude.jurado@owasp.org
+    github: yehuju
+  - name: Everth Gallegos Puma
+    email: everth.gallegos@owasp.org
+  - name: David Alain Franco Ochoa
+    email: david.ochoa@owasp.org
+  - name: Rony Villafuerte Serna
+    email: ronyvillafuerte.serna@owasp.org
+location:
+  country: Peru
+  country_code: PE
+  region: Cusco Region
+  city: Cusco
+  latitude: -13.5170887
+  longitude: -71.9785356
+meetup_group: owasp-cusco-meetup-group
+name: OWASP Cusco
+repositories:
+  - name: www-chapter-cusco
+    url: https://github.com/OWASP/www-chapter-cusco
+    description: OWASP Foundation Web Repository
+tags:
+  - Cusco
+  - LATAM
+  - custom-tag-1
+website: https://owasp.org/www-chapter-cusco
